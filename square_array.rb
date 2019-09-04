@@ -1,3 +1,7 @@
 def square_array(array)
-array.each_with_index {|x,index| array[index]= x **2}
+numbers = [1,2,3]
+ while numbers >=2 
+ puts x 
+ x**2 
 end
+
